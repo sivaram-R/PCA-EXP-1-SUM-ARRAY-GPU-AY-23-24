@@ -248,7 +248,7 @@ int main(int argc, char **argv)
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/15449e53-4f49-4714-93b4-4317c287809d)
+![image](https://github.com/user-attachments/assets/54db1b02-c757-4dd0-9e53-6313c5ffce6b)
 
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
